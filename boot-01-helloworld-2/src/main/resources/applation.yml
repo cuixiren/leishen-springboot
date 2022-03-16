@@ -1,0 +1,30 @@
+person:
+  username: cxr
+  boss: true
+  birth: 2022/03/06
+  age: 18
+#  interests: [篮球,足球]
+  interests:
+    - 抽烟
+    - 喝酒
+    - 烫头
+  animal: [cat,dog]
+#  score: {k,v}
+#  score:
+#    english: 90
+#    math: 90
+  score: {english:80,math:90}
+  salaries:
+    - 999.99
+    - 999.98
+  pet:
+    name: dog
+    weight: 100.01
+  allPets:
+    sick:
+      - {name:pp,weight:88}
+      - name: mm
+        weight: 88
+      - name: cc
+        weight: 77
+    health: [{name: mario,weight: 47}]

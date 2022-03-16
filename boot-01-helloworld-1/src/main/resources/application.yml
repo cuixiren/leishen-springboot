@@ -1,0 +1,6 @@
+server:
+  port: 8888
+
+mycar:
+  brand: YD
+  price: 100000
